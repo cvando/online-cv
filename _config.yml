@@ -1,5 +1,5 @@
 
-title: Mon CV
+title: CV Clément Vandoolaeghe
 url: 'https://cvando.github.io/online-cv'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -13,7 +13,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Clément Vandoolaeghe
+name: En construction
 tagline: Support et Intégration, Securité, Cloud
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -21,7 +21,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 email: clement.vandoolaeghe@gmail.com
 phone: 0786180346
 website: https://cvando.github.io/online-cv/
-linkedin: clément-vandoolaeghe
+linkedin: clement-vandoolaeghe
 github: cvando
 
 
