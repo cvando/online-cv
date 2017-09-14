@@ -13,7 +13,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: En construction
+name: Clément Vandoolaeghe
 tagline: Support et Intégration, Securité, Cloud
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
