@@ -18,4 +18,15 @@ jQuery(document).ready(function($) {
    
     
 
+
+var doc = new jsPDF();
+$('#generatereport').click(function() {
+   doc.fromHTML($('.wrapper')[0], 15, 15, {
+      width: 1654
+   }, function() {
+      doc.save('CV_clement_vandoolaeghe.pdf');
+   });
+});
+
+
 });
