@@ -1,37 +1,46 @@
 <section class="section projects-section">
-                <h2 class="section-title"><i class="fa fa-archive"></i>Projets</h2>
-                <div class="item">
-		<div class="item">
-                    <span class="project-title"><a href="#" target="_blank">Déploiement d'un produit SaaS en microservice sur K8s</a></span> -
-                    <span class="project-tagline">
-			                        <br>  Définition de l'architecture :
-			    	                <br>  Dimensionnement des Vms, firewall, création du réseau, plan IP, gestion DNS, gestion des certificats<br>
-		   				<br>  Installation des serveurs CoreOS (IPs, formatage, clés ssh)
-			    			<br>  Déploiement du cluster Kubernetes via kubespray
-						<br>  Création et mise à jour des fichiers K8s : déploiement, service, configmap, etc ... 
-			                        <br>  Templating et déploiement automatique des microservices via ansible
-						<br>  Intégration de la supervision : Prometheus, Node exporter, Cadvisor, Grafana, Logstash, Kibana, Elasticsearch, FluentD
-						<br>  Création des systèmes d'alerte et mise en place des procédures de déclenchement 
- 		    </span>
-                </div><!--//item-->
-                <div class="item">
-                    <span class="project-title"><a href="#hook">Portail web sécurisé</a></span> - <span class="project-tagline">Création d'un portail d'authentification avec distribution de Token et mot de passe chiffré en BDD<br>
-																																Serveur : (Nodejs express + création d'un dockerfile pour faciliter le déploiement via Dockerhub)<br>
-																																Client : (HTML, AngularJS)
-																																</span>
-                    
-                </div><!--//item-->
-                <div class="item">
-                    <span class="project-title"><a href="#" target="_blank">Extension Chrome</a></span> - <span class="project-tagline"></span>IHM pour le serveur de téléchargement (information, suppression ou ajout de téléchargement)
-																																				<br>Icône d'état de la communication avec le serveur
-																																				<br>Lancement d'un téléchargement via clique droit et menu déroulant
-                </div><!--//item-->
-                <div class="item">
-                    <span class="project-title"><a href="#" target="_blank">Serveur de téléchargement</a></span> - <span class="project-tagline">Serveur Nodejs dockerisé ouvrant une websocket
-																																					<br>Sur réception d'une commande via un client web ou une extension Chrome,
-																																					<br>Exécution d'un Script bash encapsulant la commande WGET</span>
-                </div><!--//item-->
-                <div class="item">
-                    <span class="project-title"><a href="#" target="https://sarlfanchon.fr">Site web AngularJS</a></span> - <span class="project-tagline">Création du site https://sarlfanchon.fr</span>
-                </div><!--//item-->
-            </section><!--//section-->
+    <h2 class="section-title"><i class="fa fa-archive"></i>Projets</h2>
+    <div class="item">
+        <span class="project-title"><a href="#" target="_blank">Mise en place d'un docker registry Harbor avec docker content trust</a></span> -
+        <span class="project-tagline">
+    	    <br>  Installation du harbor
+            <br>  Création du processus de signature des images via notary
+        </span>
+    </div><!--//item-->   
+    <div class="item">
+        <span class="project-title"><a href="#" target="_blank">Migration d'une solution installée sur du bare-metal vers AWS</a></span> -
+        <span class="project-tagline">
+    	    <br>  Définition de l'architecture :
+            <br>  Load balancer, EC2, IAM, S3, Route53, RDS, Elasticache, EKS<br>
+            <br>  Déploiement du cluster Kubernetes via kubeAWS
+            <br>  Evolution de l'infra vers EKS depuis février 2019.
+        </span>
+    </div><!--//item-->
+    <div class="item">
+        <span class="project-title"><a href="#" target="_blank">Déploiement d'un produit SaaS en microservice sur K8s sur infra hybride openstack | bare-metal OVH</a></span> -
+        <span class="project-tagline">
+    	    <br>  Définition de l'architecture :
+    	    <br>  Dimensionnement des Vms, firewall, création du réseau, plan IP, gestion DNS, gestion des certificats<br>
+       		<br>  Installation des serveurs CoreOS (IPs, formatage, clés ssh)
+    		<br>  Déploiement du cluster Kubernetes via kubespray
+    		<br>  Création et mise à jour des fichiers K8s : déploiement, service, configmap, etc ... 
+    	    <br>  Templating et déploiement automatique des microservices via ansible et vault.
+    		<br>  Intégration de la supervision : Prometheus, Node exporter, Cadvisor, Grafana, Logstash, Kibana, Elasticsearch, FluentD, FluentBit
+    		<br>  Création des systèmes d'alerte et mise en place des procédures de déclenchement 
+        </span>
+    </div><!--//item-->
+    <div class="item">
+        <span class="project-title"><a href="#hook">Portail web sécurisé</a></span> - <span class="project-tagline">Création d'un portail d'authentification avec distribution de Token et mot de passe chiffré en BDD<br>
+    																												Serveur : (Nodejs express + création d'un dockerfile pour faciliter le déploiement via Dockerhub)<br>
+    																												Client : (HTML, AngularJS)
+    																												</span>
+    </div><!--//item-->
+    <div class="item">
+        <span class="project-title"><a href="#" target="_blank">Serveur de téléchargement</a></span> - <span class="project-tagline">Serveur Nodejs dockerisé ouvrant une websocket
+    																																	<br>Sur réception d'une commande via un client web ou une extension Chrome,
+    																																	<br>Exécution d'un Script bash encapsulant la commande WGET</span>
+    </div><!--//item-->
+    <div class="item">
+        <span class="project-title"><a href="#" target="https://sarlfanchon.fr">Site web AngularJS</a></span> - <span class="project-tagline">Création du site https://sarlfanchon.fr</span>
+    </div><!--//item-->
+</section><!--//section-->
