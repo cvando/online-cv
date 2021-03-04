@@ -18,11 +18,10 @@ tagline: DevOps, Securité, Cloud
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: clement.vandoolaeghe@gmail.com
-phone: 06 69 36 49 60
-website: https://cvando.github.io/online-cv/
+email: 
+phone: 
+website: https://adapool.devnoops.io
 linkedin: clement-vandoolaeghe
-github: cvando
 
 
 # Tracker
