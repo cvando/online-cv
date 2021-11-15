@@ -1,5 +1,5 @@
 
-title: CV Clément Vandoolaeghe
+title: Clément Vandoolaeghe Resume
 url: 'https://cvando.github.io/online-cv'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -14,13 +14,13 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Clément Vandoolaeghe
-tagline: DevOps, Securité, Cloud
+tagline: DevOps, cloud, security, manager
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: Redactd
 phone: Redacted
-website: adapool.devnoops.io
+website: noopspool.com
 linkedin: clement-vandoolaeghe
 github: Redacted
 

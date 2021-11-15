@@ -1,82 +1,72 @@
 <section class="section projects-section">
-    <h2 class="section-title"><i class="fa fa-archive"></i>Projets</h2>
+    <h2 class="section-title"><i class="fa fa-archive"></i>PROJECTS</h2>
     <div class="item">
-        <span class="project-title"><a href="#" target="_blank">Création de document d'architecture technique pour les intégrations On-Prem</a></span> -
+        <span class="project-title"><a href="#" target="_blank">Cardano stake pool noopspool.com</a></span> -
         <span class="project-tagline">
-            <br>  Participation aux réunions de définition d'architecture avec les clients
-            <br>  Explication des prérequis nécessaires à l'intégration de notre solution
-            <br>  Accompagnement de l'équipe intégration
+            <br> Owner of a cardano pool deployed on aws and baremetal in our own datacenter.
+            <br> Definition of the architecture, deployment on kubernetes, monitoring and alerting stack, website creation.
+            <br> Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architect, security
+        </span>
+    </div><!--//item--> 
+    <div class="item">
+        <span class="project-title"><a href="#" target="_blank">POC Cardano NFT project with fully automated sale pigeonsnft.com</a></span> -
+        <span class="project-tagline">
+            <br> Definition of the architecture for the infrasctrure and backend.
+            <br> Backend created with nodejs and deployed next to a cardano relay to access the blockchain.
+            <br> Front published to a bucket and cloudfront.
+            <br> Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architect
+        </span>
+    </div><!--//item--> 
+    <div class="item">
+        <span class="project-title"><a href="#" target="_blank">Integration of a videoconference stack to citadel</a></span> -
+        <span class="project-tagline">
+            <br> Definition of the architecture for internals dev teams
+            <br> Meeting with external and internal devs to integrate the new stack
+            <br> Creation of local tools for dev to create and deploy the whole stack, to accelerate the developments. 
+            <br> helm charts creation for deployment on a new kubernetes cluster.
+            <br> Skills: Openstack, k8s, helm, architect, management, kind, ansible
+
         </span>
     </div><!--//item-->  
     <div class="item">
-        <span class="project-title"><a href="#" target="_blank">Automatisation du packaging et de la distribution des charts helm et de la documentation</a></span> -
+        <span class="project-title"><a href="#" target="_blank">Migration of citadel from docker-compose to helm</a></span> -
         <span class="project-tagline">
-            <br>  Packaging du helm et distribution de l'application sur un bucket S3 via le CI
-            <br>  Déploiement de la documentation sur un bucket S3 via le CI
-            <br>  Mise à jour de la documentation de déploiement
-            <br>  Mise à disposition de la documentation via cloudfront <a href="https://info.cryptobox.com ">https://info.cryptobox.com</a>
+            <br> Modification of the architecture to adapt it to the cloud
+            <br> Deployment of the application via helm charts
+            <br> Automation script for the creation of infrastructures with ansible and python
+            <br> Adapting µservices configurations to make them compatible with kubernetes
+            <br> Skills: Openstack, k8s, Helm, architect, management, Ansible, Python
+
         </span>
     </div><!--//item-->  
     <div class="item">
-        <span class="project-title"><a href="#" target="_blank">Déploiement de Citadel sur K8s sur cloud OVH</a></span> -
+        <span class="project-title"><a href="#" target="_blank">Automated deployment of cryptobox on k8s AWS / Azure / OVH</a></span> -
         <span class="project-tagline">
-            <br>  Modification de l'architecture pour l'adapter au cloud
-            <br>  Déploiement de l'application via des charts helm
-            <br>  Script d'automatisation de la création des infrastructures en python
-        </span>
-    </div><!--//item-->  
-    <div class="item">
-        <span class="project-title"><a href="#" target="_blank">Déploiement de Citadel sur K8s sur cloud Thales openstack</a></span> -
-        <span class="project-tagline">
-            <br>  Automatisation de la création de l'infra via Ansible (VMs, network, disques, firewalls, etc..)
-            <br>  Déploiement des clusters kubernets via Ansible et kubeadm
-            <br>  Conversion des docker compose en yml kubernetes
-            <br>  Adaptation des configurations des µservices pour les rendre compatibles avec kubernetes
-        </span>
-    </div><!--//item-->  
-    <div class="item">
-        <span class="project-title"><a href="#" target="_blank">Déploiement de cryptobox sur k8s AWS / Azure / OVH</a></span> -
-        <span class="project-tagline">
-    	    <br>  Automatisation de l'initialisation des plateformes via ansible
-            <br>  Création des buckets, base de données, création des secrets stockés dans Vault
-            <br>  Création de charts helm pour faciliter la distribution de l'application
+            <br> Automation of new customer initialization via ansible and python
+            <br> Creation of buckets, database, creation of secrets stored in Vault
+            <br> Creation of helm charts to facilitate the distribution of the application
+            <br> Skills: Openstack, Azure, AWS, k8s, helm, Ansible, Python
+
         </span>
     </div><!--//item-->   
     <div class="item">
-        <span class="project-title"><a href="#" target="_blank">Mise en place d'un docker registry Harbor avec docker content trust</a></span> -
+        <span class="project-title"><a href="#" target="_blank">Setting up a docker registry Harbor with docker content trust</a></span> -
         <span class="project-tagline">
-    	    <br>  Installation du harbor
-            <br>  Création du processus de signature des images via notary
+    	    <br>  Harbor installation
+            <br>  Creation of the image signature process via notary
         </span>
     </div><!--//item-->   
     <div class="item">
-        <span class="project-title"><a href="#" target="_blank">Migration de cryptopass vers AWS</a></span> -
+        <span class="project-title"><a href="#" target="_blank">First devops of a new application "Cryptopass" deployed on kubernetes openstack</a></span> -
         <span class="project-tagline">
-    	    <br>  Définition de l'architecture :
-            <br>  Load balancer, EC2, IAM, S3, Route53, RDS, Elasticache, EKS
-            <br>  Déploiement du cluster Kubernetes via kubeAWS
-            <br>  Evolution de l'infra vers EKS depuis février 2019.
+            <br> Definition of the architecture:
+            <br> Sizing of Vms, firewall, network creation, IP plan, DNS management, certificate management
+            <br> Installation of CoreOS servers (IPs, formatting, ssh keys)
+            <br> Deployment of the Kubernetes cluster via kubespray
+            <br> Creation and update of K8s files: deployment, service, configmap, etc ...
+            <br> Templating and automatic deployment of microservices via ansible and vault.
+            <br> Monitoring integration: Prometheus, Node exporter, Cadvisor, Grafana, Logstash, Kibana, Elasticsearch, FluentD, FluentBit
+            <br> Creation of alert systems and implementation of on-call procedures
         </span>
-    </div><!--//item-->
-    <div class="item">
-        <span class="project-title"><a href="#" target="_blank">Déploiement de Cryptopass sur kubernetes openstack / bare-metal OVH</a></span> -
-        <span class="project-tagline">
-    	    <br>  Définition de l'architecture :
-    	    <br>  Dimensionnement des Vms, firewall, création du réseau, plan IP, gestion DNS, gestion des certificats
-       		<br>  Installation des serveurs CoreOS (IPs, formatage, clés ssh)
-    		<br>  Déploiement du cluster Kubernetes via kubespray
-    		<br>  Création et mise à jour des fichiers K8s : déploiement, service, configmap, etc ... 
-    	    <br>  Templating et déploiement automatique des microservices via ansible et vault.
-    		<br>  Intégration de la supervision : Prometheus, Node exporter, Cadvisor, Grafana, Logstash, Kibana, Elasticsearch, FluentD, FluentBit
-    		<br>  Création des systèmes d'alerte et mise en place des procédures de déclenchement de l'astreinte 
-        </span>
-    </div><!--//item-->
-    <div class="item">
-        <span class="project-title"><a href="#hook">Portail web sécurisé</a></span> - 
-        <span class="project-tagline">
-            <br>Création d'un portail d'authentification avec distribution de Token et mot de passe chiffré en BDD
-    		<br>Serveur : (Nodejs express + création d'un dockerfile pour faciliter le déploiement via Dockerhub)
-    		<br>Client : (HTML, AngularJS)
-    	</span>
     </div><!--//item-->
 </section><!--//section-->
