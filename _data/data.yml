@@ -78,18 +78,18 @@ experiences:
         time: 2017 - 2018
         company: ERCOM, Velizy Villacoublay
         details: |
-          Mise en place de l'architecture et déploiement des solutions ERCOM en SaaS et On Premise
-          Intégration de système de supervision et mise en place des procédures d'astreintes
-          Maintien en condition opérationnelle des plateformes SaaS
-          Automatisation des déploiements et gestion des plateformes R&D et QA
+          Mise en place de l'architecture et déploiement des solutions ERCOM en SaaS et On Premise /
+          Intégration d'un système de supervision et mise en place des procédures d'astreintes /
+          Maintien en condition opérationnelle des plateformes SaaS /
+          Automatisation des déploiements et gestion des plateformes R&D et QA /
           Veille technologique
             - Skills: Architecture, Kubernetes, Helm, Ansible, Python, AWS, Azure, OVH, Openstack, Linux, Monitoring	
       - role: Support niveau 3
         time: 2015 - 2017
         company: ERCOM, Velizy Villacoublay
         details: |
-          Support niveau 3 des applications développées par ERCOM
-          Intégration des solutions On Premise
+          Support niveau 3 des applications développées par ERCOM /
+          Intégration des solutions On Premise /
           Création d'outils pour faciliter la distribution des MAJ et le support
             - Skills: Openstack, HTML, Javascript, Linux, Monitoring, Communication
       - role: Support niveau 1
@@ -112,7 +112,7 @@ projects:
         link: "https://noopool.com"
         tagline: "Pool operator d'un stake pool cardano déplyé sur AWS et BAremetal. Définition de architecture, déploiement sur kubernetes, monitoring et alerting, création du site. Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architecture, securité"
 
-      - title: POC PigeonsNft.com - 2021
+      - title: POC PigeonsNft.com - 2021 (Projet abandonné)
         link: "https://pigeonsnft.com"
         tagline: "Définition de l'architecture et du backend. Backend créé en nodejs communicant avec un relay cardano pour accèder à la blockchain. Front publié via cloudfront. Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architectecture"
 
