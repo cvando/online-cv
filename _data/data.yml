@@ -4,11 +4,11 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Clément Vandoolaeghe
-    tagline: Lead DevOps Run
+    tagline: Lead DevOps SRE
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -67,11 +67,11 @@ experiences:
         time: 2018 - Present
         company: Ercom / Thales, Wework Paris
         details: |
-          Management d'une équipe de devops
-          Formation des nouveaux arrivants et de l'équipe de QA sur les technologies utilisées
-          Maintien en condition opérationnelle des plateformes SaaS AWS, Azure, Openstack(OVH, Thales)
-          Choix des technologies utilisées
-          Conception d'infrastructures
+          Management d'une équipe de devops /
+          Formation des nouveaux arrivants et de l'équipe de QA sur les technologies utilisées /
+          Maintien en condition opérationnelle des plateformes SaaS AWS, Azure, Openstack(OVH, Thales) /
+          Choix des technologies utilisées /
+          Conception d'infrastructures /
           Veille technologique
             - Skills: Manager, Architecture, Communication, Securité, Kubernetes, Helm, Python, AWS, Azure, OVH, Openstack, Linux, Monitoring, Istio
       - role: Devops
