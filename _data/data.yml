@@ -110,7 +110,7 @@ projects:
     assignments:
       - title: Cardano stake pool - Depuis 2021
         link: "https://noopool.com"
-        tagline: "Pool operator d'un stake pool cardano déplyé sur AWS et BAremetal. Définition de architecture, déploiement sur kubernetes, monitoring et alerting, création du site. Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architecture, securité"
+        tagline: "Pool operator d'un stake pool cardano déployé sur AWS et sur un serveur Baremetal. Définition de architecture, déploiement sur kubernetes, monitoring et alerting, création du site. Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architecture, securité"
 
       - title: POC PigeonsNft.com - 2021 (Projet abandonné)
         link: "https://pigeonsnft.com"
