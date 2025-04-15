@@ -148,11 +148,11 @@ projects:
         tagline: "Définition de l'architecture et du backend. Backend créé en nodejs communicant avec un relay cardano pour accèder à la blockchain. Front publié via cloudfront. Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architectecture"
 
 
-publications:
-    title: Articles
-    papers:
-      - title: devnoops.medium.com
-        link: "https://devnoops.medium.com/"
+# publications:
+#     title: Articles
+#     papers:
+#       - title: devnoops.medium.com
+#         link: "https://devnoops.medium.com/"
 
 
 # skills:
