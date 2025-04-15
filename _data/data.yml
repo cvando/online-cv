@@ -142,10 +142,9 @@ projects:
       - title: Cardano stake pool - Depuis 2021
         link: 
         tagline: "Pool operator d'un stake pool cardano déployé sur AWS et sur un serveur Baremetal. Définition de architecture, déploiement sur kubernetes, monitoring et alerting, création du site. Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architecture, securité"
-
-      - title: POC PigeonsNft.com - 2021 (Projet abandonné)
-        link: "https://pigeonsnft.com"
-        tagline: "Définition de l'architecture et du backend. Backend créé en nodejs communicant avec un relay cardano pour accèder à la blockchain. Front publié via cloudfront. Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architectecture"
+      # - title: POC PigeonsNft.com - 2021 (Projet abandonné)
+      #   link: "https://pigeonsnft.com"
+      #   tagline: "Définition de l'architecture et du backend. Backend créé en nodejs communicant avec un relay cardano pour accèder à la blockchain. Front publié via cloudfront. Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architectecture"
 
 
 # publications:
