@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: profil de carrière
     summary: |
-      Bonne aptitude à m'adapter et à acquérir de nouvelles compétences, je recherche un nouveau challenge qui me permettra de mettre à profit mes compétences techniques aquises autour du Devops.
+      Bonne aptitude à m'adapter et à acquérir de nouvelles compétences, je recherche un nouveau challenge qui me permettra de mettre à profit mes compétences techniques et manageriales aquises autour du Devops.
       Mise en place d'infrastructures, architecture, automatisation, vulgarisation et management
 
 education:
@@ -70,7 +70,7 @@ experiences:
           Management de 2 équipes Platform engineering et IT
 
           IT : 2 personnes 
-
+          Priorisation des projets d'amélioration via un kanban /
           Choix des outils internes et migration des outils sur Kubernetes avec automatisation via GitLab et Rancher Fleet /
           Modernisation de l'infrastructure, gestion des équipements sur les datacenters /
           Améliorations des process, automatisation de l'IT et des tâches courantes via pipeline GitLab /
@@ -78,7 +78,8 @@ experiences:
           Dépannage sur l'intégralité de l'IT, datacenter, serveurs, switchs, firewall, VM, réseau, cluster Kubernetes, IPsec etc...
 
           Platform engineering : 3 personnes
-
+          
+          Découpage des taches par thème et planiification de la réalisation, création et priorisation des tickets via un Kanban /
           Définition de l'offre cloud d'Intersec, configuration management, sécurité, monitoring, interconnexion multi-site /
           Création d'infrastructure interne répliquant les environnements de production sur Kubernetes pour toutes les équipes d'Intersec /
           Définition de l'infrastructure de l'hyperviseur au déploiement du produit en incluant les solutions annexes, Grafana, Prometheus, Wazuh, Keycloak, Rancher, Fleet, etc... /
