@@ -67,7 +67,7 @@ experiences:
         time: Septembre 2023 - Present
         company: Intersec, La défense
         details: |
-          Management de 5 personnes divisé en 2 équipes, Platform engineering et IT
+          Management de 5 personnes répartit en 2 équipes, Platform engineering et IT
 
           IT : 2 personnes 
 
@@ -155,27 +155,27 @@ publications:
         link: "https://devnoops.medium.com/"
 
 
-skills:
-    title: Compétences
+# skills:
+#     title: Compétences
 
-    toolset:
-      - name: Kubernetes
-        level: 90%
+#     toolset:
+#       - name: Kubernetes
+#         level: 90%
 
-      - name: Troubleshooting
-        level: 90%
+#       - name: Troubleshooting
+#         level: 90%
 
-      - name: Automatisation
-        level: 80%
+#       - name: Automatisation
+#         level: 80%
 
-      - name: AWS
-        level: 80%
+#       - name: AWS
+#         level: 80%
 
-      - name: Openstack
-        level: 70%
+#       - name: Openstack
+#         level: 70%
 
-      - name: Documentation
-        level: 65%
+#       - name: Documentation
+#         level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
