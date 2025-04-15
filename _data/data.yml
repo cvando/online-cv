@@ -67,10 +67,10 @@ experiences:
         time: Septembre 2023 - Present
         company: Intersec, La défense
         details: |
-          Management de 2 équipes Platform engineering et IT
+          Management de 5 personnes divisé en 2 équipes, Platform engineering et IT
 
           IT : 2 personnes 
-          
+
           Priorisation des projets d'amélioration via un kanban /
           Choix des outils internes et migration des outils sur Kubernetes avec automatisation via GitLab et Rancher Fleet /
           Modernisation de l'infrastructure, gestion des équipements sur les datacenters /
@@ -88,7 +88,7 @@ experiences:
 
           Transverse :
 
-          Aide aux intégrateurs pour automatiser la création des VMs sur Proxmox et uniformiser les méthodes de déploiement. /
+          Support aux intégrateurs pour automatiser la création des VMs sur Proxmox et uniformiser les méthodes de déploiement. /
           Animation de réunions DevOps pour uniformiser les process, améliorer l'intégration des solutions sur Kubernetes. /
           Intervention sur les RFP pour apporter un éclairage sur la partie cloud et rédaction de documentations destinées aux commerciaux. /
           Veille technologique
@@ -98,7 +98,7 @@ experiences:
         time: 2018 - 2023
         company: Ercom / Thales, Wework Paris
         details: |
-          Management d'une équipe de devops /
+          Management d'une équipe de 5 devops /
           Formation des nouveaux arrivants et de l'équipe de QA sur les technologies utilisées /
           Maintien en condition opérationnelle des plateformes SaaS AWS, Azure, Openstack(OVH, Thales) /
           Choix des technologies utilisées /
