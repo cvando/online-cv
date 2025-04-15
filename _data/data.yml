@@ -33,10 +33,10 @@ sidebar:
       title: Langues
       info:
         - idiom: Français
-          level: 
+          # level: 
 
         - idiom: Anglais
-          level: 
+          # level: 
 
     interêts:
       title: Interests
@@ -67,7 +67,7 @@ experiences:
         time: Septembre 2023 - Present
         company: Intersec, La défense
         details: |
-          Management de 5 personnes répartit en 2 équipes, Platform engineering et IT
+          Management de 5 personnes réparties en 2 équipes, Platform engineering et IT
 
           IT : 2 personnes 
 
