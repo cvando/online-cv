@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Clément Vandoolaeghe
-    tagline: Lead DevOps SRE
+    tagline: Head of Platform Operations
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     phone: 0669364960
     timezone:
     citizenship:
-    website: noopspool.com
+    website:
     linkedin: clément-vandoolaeghe-070a32a4
     xing: 
     github: cvando
@@ -41,7 +41,7 @@ sidebar:
     interêts:
       title: Interests
       info:
-        - item: Course
+        - item: Course à pied
           link:
 
         - item: Basketball
@@ -63,8 +63,32 @@ education:
 experiences:
     title: Expériences
     info:
+      - role: Head of Platform Operations
+        time: Septembre 2023 - Present
+        company: Intersec, La défense
+        details: |
+          Management de 2 équipes Platform engineering et IT /
+          IT: 2 personnes /
+          Choix des outils internes et migration des outils sur kubernetes avec automatisation via gitlab et rancher fleet /
+          Modérnisation de l'infrastructure, gestion des équipements sur les datacenters /
+          Améliorations des process, automatisation de l'IT et des tâches courantes via pipeline gitlab /
+          Mise en place de norme de sécurité, inventaire et mise en place des process de remédiations, obtention de la certification Cyber essential + pour l'ensemble de l'IT de la société /
+          Dépannage sur l'intégralité de l'IT, du datacenter, serveurs, switchs, firewall, VM, Réseau, cluster kubernetes, Ipsec etc...
+
+          Platform engineering: 3 personnes /
+          Définition de l'offre cloud d'Intersec, Configuration management, sécurité, Monitoring, Interconnexion multi site /
+          Création d'infrastructure interne réplicquant les envirionnements de production sur Kubernetes pour toutes les équipes d'Intersec /
+          Définition de l'infrastructure de l'hyperviseur au déploiement du produit en incluant les solutions annexes, Grafana, Prometheus, Wazuh, Keycloak, Rancher, Fleet , etc... /
+          Dépannage sur l'infrascture de production interne et externe
+
+          Transverse:
+          Aide des intégrateurs pour automatiser la céation des VMs sur proxmox et uniformiser les méthodes de déploiement. /
+          Animation de réunion DevOps pour uniformiser les process, Améliorer l'intégration des solutions sur kubernetes. /
+          Intervention sur les RFP pour apporter un éclairage sur la partie cloud et rédaction documentations déstinées aux commerciaux. /
+          Veille technologique
+            - Skills: Manager, Architecture, Communication, Securité, Kubernetes, Helm, AWS, OVH, Openstack, Linux, Monitoring, Cilium, Ansible
       - role: Run and Devops manager
-        time: 2018 - Present
+        time: 2018 - 2023
         company: Ercom / Thales, Wework Paris
         details: |
           Management d'une équipe de devops /
@@ -109,7 +133,7 @@ projects:
       Liste de projets produits hors activité professionnelle
     assignments:
       - title: Cardano stake pool - Depuis 2021
-        link: "https://noopool.com"
+        link: 
         tagline: "Pool operator d'un stake pool cardano déployé sur AWS et sur un serveur Baremetal. Définition de architecture, déploiement sur kubernetes, monitoring et alerting, création du site. Skills: AWS, K8s, Cardano, html, CSS, Javascript, ops, architecture, securité"
 
       - title: POC PigeonsNft.com - 2021 (Projet abandonné)
