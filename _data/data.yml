@@ -71,20 +71,19 @@ experiences:
 
           IT : 2 personnes 
 
-          Priorisation des projets d'amélioration via un kanban /
+          Définition et priorisation des projets d'amélioration /
           Choix des outils internes et migration des outils sur Kubernetes avec automatisation via GitLab et Rancher Fleet /
-          Modernisation de l'infrastructure, gestion des équipements sur les datacenters /
           Améliorations des process, automatisation de l'IT et des tâches courantes via pipeline GitLab /
-          Mise en place de normes de sécurité, inventaire et mise en place des process de remédiation, obtention de la certification Cyber Essential+ pour l'ensemble de l'IT de la société /
+          Mise en place de normes de sécurité, inventaire et mise en place des process de remédiation, obtention de la certification Cyber Essential Plus /
           Dépannage sur l'intégralité de l'IT, datacenter, serveurs, switchs, firewall, VM, réseau, cluster Kubernetes, Proxmox, IPsec, etc...
 
           Platform engineering : 3 personnes
           
-          Découpage des taches par thème et planiification de la réalisation, création et priorisation des tickets via un Kanban /
+          Découpage des tâches par thématique, planification de leur réalisation, création et priorisation des tickets via un board Kanban. /
           Définition de l'offre cloud d'Intersec, configuration management, sécurité, monitoring, interconnexion multi-site /
-          Création d'infrastructure interne répliquant les environnements de production sur Kubernetes pour toutes les équipes d'Intersec /
-          Définition de l'infrastructure de l'hyperviseur au déploiement du produit en incluant les solutions annexes, Grafana, Prometheus, Wazuh, Keycloak, Rancher, Fleet, etc... /
-          Dépannage sur l'infrastructure de production interne et externe
+          Création de plateformes internes répliquant les environnements de production sur Kubernetes pour les équipes support, intégration, R&D /
+          Définition de l'architecture de l'hyperviseur au déploiement du produit en incluant les solutions annexes, Grafana, Prometheus, Wazuh, Keycloak, Rancher, Fleet /
+          Dépannage des infrastructures de production internes et externes
 
           Transverse :
 
