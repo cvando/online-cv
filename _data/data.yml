@@ -69,30 +69,28 @@ experiences:
         details: |
           Management de 5 personnes réparties en 2 équipes, Platform engineering et IT
 
-          IT : 2 personnes 
-
+          IT : 2 personnes
           Définition et priorisation des projets d'amélioration /
-          Choix des outils internes et migration des outils sur Kubernetes avec automatisation via GitLab et Rancher Fleet /
-          Améliorations des process, automatisation de l'IT et des tâches courantes via pipeline GitLab /
-          Mise en place de normes de sécurité, inventaire et mise en place des process de remédiation, obtention de la certification Cyber Essential Plus /
-          Dépannage sur l'intégralité de l'IT, datacenter, serveurs, switchs, firewall, VM, réseau, cluster Kubernetes, Proxmox, IPsec, etc...
+          Choix des outils internes et migration vers Kubernetes avec automatisation via GitLab et Rancher Fleet /
+          Amélioration des process, automatisation de l'IT et des tâches courantes via pipelines GitLab /
+          Mise en place de normes de sécurité, inventaire, mise en place des process de remédiation, obtention de la certification Cyber Essentials Plus /
+          Dépannage sur l'ensemble de l'IT : datacenter, serveurs, switchs, firewalls, VM, réseau, clusters Kubernetes, Proxmox, IPsec, etc...
 
           Platform engineering : 3 personnes
-          
-          Découpage des tâches par thématique, planification de leur réalisation, création et priorisation des tickets via un board Kanban. /
+          Découpage des tâches par thématique, planification de leur réalisation, création et priorisation des tickets via un board Kanban /
           Définition de l'offre cloud d'Intersec, configuration management, sécurité, monitoring, interconnexion multi-site /
           Création de plateformes internes répliquant les environnements de production sur Kubernetes pour les équipes support, intégration, R&D /
-          Définition de l'architecture de l'hyperviseur au déploiement du produit en incluant les solutions annexes, Grafana, Prometheus, Wazuh, Keycloak, Rancher, Fleet /
+          Définition de l'architecture, de l'hyperviseur au déploiement du produit, incluant les solutions annexes : Grafana, Prometheus, Wazuh, Keycloak, Rancher, Fleet /
           Dépannage des infrastructures de production internes et externes
 
           Transverse :
-
-          Support aux intégrateurs pour automatiser la création des VMs sur Proxmox et uniformiser les méthodes de déploiement. /
-          Animation de réunions DevOps pour uniformiser les process, améliorer l'intégration des solutions sur Kubernetes. /
-          Intervention sur les RFP pour apporter un éclairage sur la partie cloud et rédaction de documentations destinées aux commerciaux. /
+          Support aux intégrateurs pour automatiser la création des VMs sur Proxmox et uniformiser les méthodes de déploiement /
+          Animation de réunions DevOps pour uniformiser les process, améliorer l'intégration des solutions sur Kubernetes /
+          Intervention sur les RFP pour apporter un éclairage sur la partie cloud et rédaction de documentations destinées aux équipes commerciales /
+          Mise en place d'un cluster de monitoring global pour les clients legacy (VM)
           Veille technologique
-          - Skills : Manager, Architecture, Communication, Sécurité, Kubernetes, Helm, AWS, OVH, OpenStack, Linux, Monitoring, Cilium, Ansible
 
+          Skills : Manager, Architecture, Communication, Sécurité, Kubernetes, Helm, AWS, OVH, OpenStack, Linux, Monitoring, Cilium, Ansible
       - role: Run and Devops manager
         time: 2018 - 2023
         company: Ercom / Thales, Wework Paris
