@@ -70,6 +70,7 @@ experiences:
           Management de 5 personnes réparties en 2 équipes, Platform engineering et IT
 
             - IT : 2 personnes
+            
           Définition et priorisation des projets d'amélioration /
           Choix des outils internes et migration vers Kubernetes avec automatisation via GitLab et Rancher Fleet /
           Amélioration des process, automatisation de l'IT et des tâches courantes via pipelines GitLab /
@@ -85,7 +86,7 @@ experiences:
           Dépannage des infrastructures de production internes et externes
 
             - Transverse :
-            
+
           Support aux intégrateurs pour automatiser la création des VMs sur Proxmox et uniformiser les méthodes de déploiement /
           Animation de réunions DevOps pour uniformiser les process, améliorer l'intégration des solutions sur Kubernetes /
           Intervention sur les RFP pour apporter un éclairage sur la partie cloud et rédaction de documentations destinées aux équipes commerciales /
